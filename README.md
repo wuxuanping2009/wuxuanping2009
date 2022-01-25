@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @wuxuanping2009
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... TEL:+86 18700873486
+- 👋 Hi, I’m wuxuanping2009
+- 👀 I’m interested in java & pronHub
+- 🌱 I’m currently learning mySql
+- 📫 TEL:+86 18700873486
